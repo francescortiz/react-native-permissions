@@ -160,6 +160,7 @@ The current supported permissions are:
 | Phone Call         | `callPhone`         | ❌️ | ✔       |
 | Read SMS           | `readSms`           | ❌️ | ✔       |
 | Receive SMS        | `receiveSms`        | ❌️ | ✔       |
+| Read Phone State   | `readPhoneState`    | ❌️ | ✔       |
 
 ### Methods
 
